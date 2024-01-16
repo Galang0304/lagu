@@ -1,0 +1,80 @@
+.container {
+    display: grid;
+    grid-template-rows: 280px 100px;
+    width: 300px;
+    border: 3px solid black;
+    background: rgb(94, 59, 59);
+    margin-left: 525px;
+    margin-top: 100px;
+    border-radius: 30px;      
+    box-shadow: 0 0 2px 2px rgb(255, 0, 0); 
+    background: url(../img/ab67616d0000b2734718e2b124f79258be7bc452.jpeg);
+}
+.foto {
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+img {
+    border-radius: 30px;
+}
+.kata {
+    font-size: 18px;
+    margin-left: 20px;
+    font-style: oblique;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: red;
+    background-color: black;
+    height: 23px;
+    width: 120PX;
+    border-radius: 10PX;
+    text-align: center;
+    
+}
+.kata2 {
+    color: white;
+    width: 90px;
+    margin-top: -72px;
+    margin-left: 20px;
+}
+.kata3 {
+    background: rgb(154, 157, 157);
+    color: rgb(0, 0, 0);
+    margin-top: -45px;
+    width: 80px;
+    height: 15px;
+    font-size: 13px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 100px;
+}
+.kata4 {
+    writing-mode: vertical-lr;
+    color: white;
+    margin-top: -270px; 
+    margin-left: 240px;
+    position: relative;
+    right: 10px;
+}
+.play {
+    background-color: blueviolet;
+    text-align: center;
+    width: 100px;
+    height: 35px;
+    margin-left: 178px;
+    margin-top: -65px;
+    border-radius: 10px;
+}
+p {
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 13px;
+    margin-left: 3px;
+}
+
+body {
+    background: url(../img/ab67616d0000b2734718e2b124f79258be7bc452.jpeg);
+}
+
